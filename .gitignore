@@ -1,0 +1,5 @@
+.vagrant
+
+# Server and client config directories.
+server/
+client/
